@@ -9,16 +9,7 @@
 
 - ⚡ Fun fact **I think I am Funny 😊😁**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/fahadkhalique005" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadkhalique005" height="30" width="40" />
-  </a>
-  <a href="mailto:fahadkhalique439@gmail.com" target="_blank" style="margin-left: 10px;">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="30" width="40" />
-    fahadkhalique439@gmail.com
-  </a>
-</p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/fahadkhalique005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadkhalique005" height="30" width="40" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
